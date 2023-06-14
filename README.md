@@ -1,5 +1,6 @@
 # faster-rcnn
-Faster R-CNN inference with Tensorflow C API
+Object detection Faster R-CNN inference with Tensorflow C API. Using Tensorflow C API, you won't need to build tensorflow C++ library.
+Thanks to @Neargye for creating a C++ wrapper that makes it easier to use Tensorflow C API, details can be found <a href="https://github.com/Neargye/hello_tf_c_api">here</a>
 
 ![alt text](data/cap.png)
 
